@@ -314,4 +314,4 @@ alcances-limitaciones.md
 | Jesús Yahir Calderón López        | [250802-eng](https://github.com/250802-eng)       |   Administrador de Bases de Datos     |
 | Carlos Eduardo Antonio Alvarez    | [charles-antt](https://github.com/charles-antt)             |  Líder de Desarrollo      |
 | Bertha Hernández Aranda        | [251113-BerthaHernandezAranda](https://github.com/251113-BerthaHernandezAranda)            | Ingeniero de Calidad       |
-| Jeovani Cantellano Vargas        | [Jeovani-Vargas](https://github.com/Jeovani-Vargas)            | Ingeniero de Calidad       |
+| Jeovani Cantellano Vargas        | [Jeovany-Vargas](https://github.com/Jeovany-Vargas)            | Cliente     |
