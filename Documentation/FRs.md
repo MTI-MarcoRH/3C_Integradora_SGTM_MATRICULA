@@ -63,8 +63,13 @@
 | M.T.I. Marco A. Ramírez   | [MTI-MarcoRH](https://github.com/MTI-MarcoRH)        | Líder de Proyecto       |🟢 Aprobados |Sin observaciones|
 | Jesús Yahir Calderón López        | [250802-eng](https://github.com/250802-eng)       |   Administrador de Bases de Datos     |🔴 No Aprobados  |Sin observaciones|
 | Carlos Eduardo Antonio Alvarez    | [charles-antt](https://github.com/charles-antt)             |  Líder de Desarrollo      |🔴 No Aprobados  |Sin observaciones|
+<<<<<<< HEAD
 | Bertha Hernández Aranda        | [251113-BerthaHernandezAranda](https://github.com/251113-BerthaHernandezAranda)            | Ingeniero de Calidad       |🔴 No Aprobados  |Sin observaciones|
 | Jeovani Cantellano Vargas        | [Jeovany-Vargas](https://github.com/Jeovany-Vargas)            | Cliente     |🟢  Aprobados  |Sin observaciones|
+=======
+| Bertha Hernández Aranda        | [251113-BerthaHernandezAranda](https://github.com/251113-BerthaHernandezAranda)            | Ingeniero de Calidad       |🟢 Aprobados  |Sin observaciones|
+| Jeovani Cantellano Vargas        | [Jeovany-Vargas](https://github.com/Jeovany-Vargas)            | Cliente     |🔴 No Aprobados  |Sin observaciones|
+>>>>>>> d6b2f4e5ee1d70d65662577e4c9b374a39588623
 
 
 
