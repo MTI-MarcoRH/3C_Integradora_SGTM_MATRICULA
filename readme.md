@@ -308,10 +308,10 @@ alcances-limitaciones.md
 | M.T.I. Marco A. Ramírez Hdez.       | [MTI-MarcoRH](https://github.com/MTI-MarcoRH)            | Cliente       |
 
 
-| Nombre                        | Usuario             | Puesto |
-|-------------------------------|---------------------|--------|
-| M.T.I. Marco A. Ramírez   | [MTI-MarcoRH](https://github.com/MTI-MarcoRH)        | Líder de Proyecto       |
-| Jesús Yahir Calderón López        | [250802-eng](https://github.com/250802-eng)       |   Administrador de Bases de Datos     |
+| Nombre                        | Usuario             | Puesto |Ultima acción|
+|-------------------------------|---------------------|--------|---|
+| M.T.I. Marco A. Ramírez   | [MTI-MarcoRH](https://github.com/MTI-MarcoRH)        | Líder de Proyecto       | Creación del readme.md principal del proyecto 
+| Jesús Yahir Calderón López        | [250802-eng](https://github.com/250802-eng)       |   Administrador de Bases de Datos     | Carga del Modelo E-R|
 | Carlos Eduardo Antonio Alvarez    | [charles-antt](https://github.com/charles-antt)             |  Líder de Desarrollo      |
 | Bertha Hernández Aranda        | [251113-BerthaHernandezAranda](https://github.com/251113-BerthaHernandezAranda)            | Ingeniero de Calidad       |
 | Jeovani Cantellano Vargas        | [Jeovany-Vargas](https://github.com/Jeovany-Vargas)            | Cliente     |
